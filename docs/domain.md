@@ -25,7 +25,7 @@ Este documento descreve o **domínio do sistema**, suas entidades principais, at
 
 **Atributos**
 
-1. Estado (ativa, cancelada, concluída)
+1. Estado (active, cancelled, concluded)
 2. Data de início
 3. Data de fim
 
