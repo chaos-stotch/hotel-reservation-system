@@ -1,6 +1,6 @@
 type ReservationState = "active" | "concluded" | "cancelled"
 
-class Reservation {
+export class Reservation {
   state: ReservationState = "active";
   startDate: Date;
   endDate: Date;
